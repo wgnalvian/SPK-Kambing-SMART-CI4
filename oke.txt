@@ -1,0 +1,6 @@
+%VJ-fNw~L4[?
+ database.default.hostname = localhost:3306
+ database.default.database = informatika_oke
+ database.default.username = informatika_oke
+ database.default.password = %VJ-fNw~L4[?
+ database.default.DBDriver = MySQLi
